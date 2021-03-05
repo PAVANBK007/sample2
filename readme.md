@@ -1,6 +1,6 @@
 #### Instructions
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ---
@@ -29,6 +29,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/sudh-0"><img src="https://avatars.githubusercontent.com/u/50312901?v=4?s=100" width="100px;" alt=""/><br /><sub><b>sudh-0</b></sub></a><br /><a href="https://github.com/sudh-0/example-git-repo/commits?author=sudh-0" title="Documentation">📖</a> <a href="#ideas-sudh-0" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/tany2-apt"><img src="https://avatars.githubusercontent.com/u/80028648?v=4?s=100" width="100px;" alt=""/><br /><sub><b>tany2-apt</b></sub></a><br /><a href="https://github.com/sudh-0/example-git-repo/commits?author=tany2-apt" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Lucky-786"><img src="https://avatars.githubusercontent.com/u/79583760?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Lucky-786</b></sub></a><br /><a href="https://github.com/sudh-0/example-git-repo/commits?author=Lucky-786" title="Code">💻</a></td>
   </tr>
 </table>
 
