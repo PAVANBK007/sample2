@@ -19,7 +19,17 @@
         "doc",
         "ideas"
       ]
+    },
+    {
+      "login": "tany2-apt",
+      "name": "tany2-apt",
+      "avatar_url": "https://avatars.githubusercontent.com/u/80028648?v=4",
+      "profile": "https://github.com/tany2-apt",
+      "contributions": [
+        "code"
+      ]
     }
   ],
-  "contributorsPerLine": 7
+  "contributorsPerLine": 7,
+  "skipCi": true
 }
