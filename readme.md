@@ -1,6 +1,6 @@
 #### Instructions
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ---
@@ -31,6 +31,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/tany2-apt"><img src="https://avatars.githubusercontent.com/u/80028648?v=4?s=100" width="100px;" alt=""/><br /><sub><b>tany2-apt</b></sub></a><br /><a href="https://github.com/sudh-0/example-git-repo/commits?author=tany2-apt" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Lucky-786"><img src="https://avatars.githubusercontent.com/u/79583760?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Lucky-786</b></sub></a><br /><a href="https://github.com/sudh-0/example-git-repo/commits?author=Lucky-786" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/dipesh23-apt"><img src="https://avatars.githubusercontent.com/u/80080241?v=4?s=100" width="100px;" alt=""/><br /><sub><b>dipesh23-apt</b></sub></a><br /><a href="https://github.com/sudh-0/example-git-repo/commits?author=dipesh23-apt" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/aninditdk"><img src="https://avatars.githubusercontent.com/u/64904988?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anindit Panigrahi</b></sub></a><br /><a href="https://github.com/sudh-0/example-git-repo/commits?author=aninditdk" title="Code">💻</a></td>
   </tr>
 </table>
 
